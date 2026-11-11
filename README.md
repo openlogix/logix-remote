@@ -1,4 +1,9 @@
-# Logix Remote
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.openlogix.org/brand/readme/remote-dark.svg">
+  <img alt="Logix Remote" src="https://www.openlogix.org/brand/readme/remote-light.svg" height="96">
+</picture>
+
+[![License: MIT or Apache 2.0](https://img.shields.io/badge/License-MIT%20or%20Apache%202.0-blue)](LICENSE-MIT)
 
 A network adapter for developing on FPGA boards anywhere.
 
